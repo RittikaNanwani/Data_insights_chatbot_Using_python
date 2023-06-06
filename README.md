@@ -30,7 +30,7 @@ Import the dataset from the online retail store into the chatbot.
 
 Run the chatbot script, which will provide a prompt for user queries.
 
-Enter your query in natural language, such as asking for the average quantity, monthly sales trend, top customers, frequent countries, best-selling products, or order frequency.
+Enter your query, such as asking for the average quantity, monthly sales trend, top customers, frequent countries, best-selling products, or order frequency.
 
 The chatbot will process your query and generate the appropriate response, providing insights and analysis based on the dataset.
 
@@ -44,7 +44,7 @@ Predictive Analytics: Introducing predictive models to forecast future sales tre
 Interactive Visualization: Integrating interactive visualization tools to present insights in a more engaging and intuitive manner.
 
 ## Conclusion
-The Data Insights Chatbot is a powerful tool for exploring and gaining insights from the dataset of an online retail store. By leveraging natural language processing and data analysis techniques, the chatbot empowers users to ask questions, obtain meaningful insights, and make informed decisions based on the dataset. Whether you are a data analyst, business owner, or researcher, the Data Insights Chatbot can assist in uncovering valuable information and trends from the online retail dataset.
+The Data Insights Chatbot is a powerful tool for exploring and gaining insights from the dataset of an online retail store. By data analysis techniques, the chatbot empowers users to ask questions, obtain meaningful insights, and make informed decisions based on the dataset. Whether you are a data analyst, business owner, or researcher, the Data Insights Chatbot can assist in uncovering valuable information and trends from the online retail dataset.
 
 
 
