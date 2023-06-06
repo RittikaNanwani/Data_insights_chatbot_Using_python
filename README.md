@@ -1,6 +1,6 @@
 # Data_insights_chatbot_Using_python
 ## Data Insights Chatbot
-The Data Insights Chatbot is a Python-based chatbot that provides various insights and analysis on a dataset from an online retail store dataset. The chatbot utilizes natural language processing (NLP) techniques to understand user queries and generate meaningful responses based on the dataset.
+The Data Insights Chatbot is a Python-based chatbot that provides various insights and analysis on a dataset from an online retail store dataset.
 
 ##Dataset
 The chatbot uses a dataset obtained from the online retail store, which contains information about customer transactions, including invoice details, stock codes, descriptions, quantities, invoice dates, unit prices, customer IDs, and countries. The dataset provides rich data for analysis and generating insights about customer behavior, sales trends, and more.
