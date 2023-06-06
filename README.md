@@ -6,7 +6,7 @@ The Data Insights Chatbot is a Python-based chatbot that provides various insigh
 ##Dataset
 The chatbot uses a dataset obtained from the online retail store, which contains information about customer transactions, including invoice details, stock codes, descriptions, quantities, invoice dates, unit prices, customer IDs, and countries. The dataset provides rich data for analysis and generating insights about customer behavior, sales trends, and more.
 
-##Features
+## Features
 The Data Insights Chatbot offers the following features and insights:
 
 Average Quantity per Invoice: Provides the average quantity of items purchased per invoice, giving an understanding of the typical order size.
@@ -21,7 +21,7 @@ Best-selling Products: Highlights the products that have been sold in the highes
 
 Order Frequency per Customer: Analyzes the frequency of orders made by each customer, giving insights into customer loyalty and repeat purchases.
 
-##How to Use
+## How to Use
 To use the Data Insights Chatbot, follow these steps:
 
 Ensure you have the required dependencies installed, including Python and the necessary libraries (e.g., pandas, numpy).
@@ -34,7 +34,7 @@ Enter your query in natural language, such as asking for the average quantity, m
 
 The chatbot will process your query and generate the appropriate response, providing insights and analysis based on the dataset.
 
-##Future Enhancements
+## Future Enhancements
 The Data Insights Chatbot can be further enhanced with additional features and analysis capabilities. Some potential enhancements include:
 
 Sentiment Analysis: Incorporating sentiment analysis techniques to analyze customer reviews or feedback and provide insights on customer sentiment.
@@ -43,7 +43,7 @@ Predictive Analytics: Introducing predictive models to forecast future sales tre
 
 Interactive Visualization: Integrating interactive visualization tools to present insights in a more engaging and intuitive manner.
 
-##Conclusion
+## Conclusion
 The Data Insights Chatbot is a powerful tool for exploring and gaining insights from the dataset of an online retail store. By leveraging natural language processing and data analysis techniques, the chatbot empowers users to ask questions, obtain meaningful insights, and make informed decisions based on the dataset. Whether you are a data analyst, business owner, or researcher, the Data Insights Chatbot can assist in uncovering valuable information and trends from the online retail dataset.
 
 
